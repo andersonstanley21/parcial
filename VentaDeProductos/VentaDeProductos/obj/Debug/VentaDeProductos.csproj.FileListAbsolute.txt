@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\VentaDeProductos\VentaDeProductos\bin\Debug\VentaDeProductos.exe.config
+C:\Users\Usuario\source\repos\VentaDeProductos\VentaDeProductos\bin\Debug\VentaDeProductos.exe
+C:\Users\Usuario\source\repos\VentaDeProductos\VentaDeProductos\bin\Debug\VentaDeProductos.pdb
+C:\Users\Usuario\source\repos\VentaDeProductos\VentaDeProductos\obj\Debug\VentaDeProductos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\VentaDeProductos\VentaDeProductos\obj\Debug\VentaDeProductos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\VentaDeProductos\VentaDeProductos\obj\Debug\VentaDeProductos.exe
+C:\Users\Usuario\source\repos\VentaDeProductos\VentaDeProductos\obj\Debug\VentaDeProductos.pdb
